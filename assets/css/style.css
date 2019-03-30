@@ -258,3 +258,77 @@ li:first-child:after {
         display: none;
     }
 }
+
+@media screen and (max-width: 768px) {
+    /* .tile {
+        width: 700px;
+        height: 400px;
+    }
+    .thumbnail {
+        width: 480px;
+        height: 400px;
+    }
+    .port_desc {
+        margin-top: 320px;
+        width: 470px;
+        height: 30px;
+        padding: 10px 5px 0 5px;
+    }*/
+    label {
+        display: block;
+    }
+}
+
+h1 {
+    width: 700px;
+}
+
+hr {
+    width: 590px;
+    margin-left: -10px;
+}
+
+input {
+    width: 575px;
+}
+
+input.msg {
+    width: 575px;
+}
+
+header {
+    width: 770px;
+}
+
+/* #headshot {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 450px;
+} */
+
+.container {
+    width: 600px;
+}
+
+nav {
+    margin-right: 50px;
+}
+
+/* .MyName {
+    width: 640px;
+    float: left;
+    margin-left: -130px;
+} */
+
+.top {
+    width: 770px;
+}
+
+#hideImage {
+    display: none;
+}
+
+}
